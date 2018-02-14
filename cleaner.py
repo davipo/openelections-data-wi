@@ -11,6 +11,7 @@ party_recode = {
     "Republican": "REP",
     "Wisconsin Green": "WGR",
     "Wisconsin Greens": "WGR",
+    "Greens": "WGR",
     "Wisconsin Green 2010-09-14": "WIG",  # only in 2010-09-14 primary Assembly District 77
     "Non-Partisan": "NP",
     "not applicable?": "NA"
@@ -64,6 +65,7 @@ def clean_county(item):
     return clean_string(item)
 
 def clean_ward(item):
+    item = item.replace("Ward !-2", "Ward 1-2") # Fix typo in 2012-05-08
     return clean_string(item)
 
 def clean_office(item):

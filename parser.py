@@ -8,7 +8,6 @@ import requests
 import unicodecsv as csv
 import xlrd
 import zipfile
-
 import cleaner
 
 ### Is this needed?
@@ -21,8 +20,9 @@ output_headers = [
 
 # {colA_header: num_missing} -- given first header, number of missing columns
 #   (for 2002 to 2010 single sheet spreadsheets)
-first_header = {'ELECTION': 0, 'OFFICE TYPE': 3, 'COUNTY': 10}
+first_header = {'ELECTION': 0, 'OFFICE TYPE': 3, 'COUNTY': 10, 'ELECTION DATE': 0}
 
+non_data_row_first_column_values = ['', ' ', 'SQL> ']
 
 def collect_columns(row, start_col):
     """Collect data from row starting at start_col, until empty or bad cell."""
@@ -37,6 +37,7 @@ def collect_columns(row, start_col):
 def process_xls_2002_to_2010(sheet):
     """Return list of records from spreadsheet in 2002-2010 format"""
     results = []
+    parties = None
     for rowx in range(sheet.nrows):     # index to rows
         row = sheet.row_values(rowx)
         colA = row[0]
@@ -52,10 +53,20 @@ def process_xls_2002_to_2010(sheet):
             for i in range(len(candidates) - len(parties)):
                 parties.append('')
             continue
-        elif colA in ('', ' '):
+        elif colA in (non_data_row_first_column_values) or 'rows selected.' in str(colA):
             continue
         
         # not header nor blank: assume this is a data row
+        if parties is None:  # If we didn't find the parties on their own row, they were tacked onto the candidate names
+            clean_candidates = []
+            parties = []
+            for candidate in candidates:
+                if ' ' in candidate:
+                    candidate, party = candidate.strip().rsplit(' ', 1)
+                    parties.append(party)
+                    clean_candidates.append(candidate)
+            candidates = clean_candidates
+
         office_col = 4 - col_offset
         if office_col >= 0:
             office = row[office_col]
@@ -465,18 +476,11 @@ xls_2010_onward_working = [
 #   1573,1574,1576,1658,1659,1660,1661
 
 working = xls_2002_to_2010_working + xls_2002_to_2010_unfinished
-working += xls_2010_onward_working
-
-test_set = [
-404, 407, 408, 419, 421, 424, 425, 426, 434, 440, 444,
-1573, 1574, 1575, 1576, 1577, 1659, 1661, 1662
-]
-# get_all_results(test_set, WIOpenElectionsAPI)
+working += xls_2010_onward_working + range(1822,1852)
 
 # jsonfilenames = ['1748.json', '1710.json']
 # for filename in jsonfilenames:
 #     get_result_for_json(filename)
-
 
 # Running from command line without args, process results for all working ids.
 # With args, get results for the ids listed as args.
