@@ -163,7 +163,7 @@ Feature: WI Elections
     | party | candidate             | county        | office                                    | ward                                              | votes | total |
     | DEM   | Tim John              | Polk          | Governor                                  | VILLAGE OF FREDERIC Wards 1 & 2                   | 5     | 28    |
     | REP   | Dan Mielke            | Marathon      | House                                     | VILLAGE OF KRONENWETTER Wards 1 - 8               | 118   | 568   |
-    | LIB   | Joseph Kexel          | Kenosha       | House                                     | VILLAGE OF PLEASANT PRAIRIE Wards 6 & 7           | 2     | 2     | 
+    | LIB   | Joseph Kexel          | Kenosha       | House                                     | VILLAGE OF PLEASANT PRAIRIE Wards 6 & 7           | 2     | 2     |
     | WIG   | Ben Manski            | Dane          | State Assembly                            | CITY OF MIDDLETON Wards 2-4                       | 33    | 33    |
     | NA    | James James           | Adams         | Governor                                  | TOWN OF BIG FLATS Ward 1                          | 1     | 2     |
 
