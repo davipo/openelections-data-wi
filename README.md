@@ -3,6 +3,37 @@
 # openelections-data-wi
 Pre-processed election results for Wisconsin elections
 
+## Using the data
+
+The election results files are located in folders by year. The file names are standardized as described here:
+http://docs.openelections.net/archive-standardization/
+
+``office_table.xlsx`` is a table showing the presence or absence of data for each office in each election.
+
+Some data may be missing. This and other known problems are documented at
+https://github.com/openelections/openelections-data-wi/issues
+
+We have included the following offices in our results:
+* President
+* Senate
+* House
+* Governor
+* Lieutenant Governor
+* Attorney General
+* State Treasurer
+* Secretary Of State
+* State Superintendent Of Public Instruction
+* State Senate
+* State Assembly
+* Supreme Court
+* Court Of Appeals
+* Circuit Court
+* District Attorney
+
+
+
+## Using the code
+
 ``parser.py`` processes files based on cached metadata in ``local_data_cache/elections_metadata.json``\
 To update this metadata from the OpenElections API, run ``python fetch.py wi -m``\
 (``fetch.py`` fetches data files based on the cached metadata)
