@@ -1,4 +1,4 @@
-"""Convert elections_metadata.json to CSV"""
+"""Convert elections_metadata.json to CSV, and back"""
 
 import csv
 import json
@@ -26,26 +26,56 @@ fieldnames = [
 ]
 
 
-
-if __name__ == "__main__":
-    json_filepath = sys.argv[1]
-    
-    path, ext = os.path.splitext(json_filepath)
-    csvfilepath = path + '.csv'
-    outfile = open(csvfilepath, 'w')
+def json_to_csv(filepath, outfilepath):
+    infile = open(filepath)
+    metadata = json.load(infile)
+    outfile = open(outfilepath, 'w')
     writer = csv.DictWriter(outfile, fieldnames, extrasaction='ignore')
     writer.writeheader()
-    
-    with open(json_filepath) as metadata_file:
-        metadata = json.load(metadata_file)
     elections = metadata['objects']
-
-### Getting the fieldnames
-#     for field in elections[0]:
-#         print("'" + field + "', ", end='')
-    
     for election in elections:
         election['state'] = election['state']['postal']
         election['direct_links'] = ', \n'.join(election['direct_links'])
         writer.writerow(election)
 
+
+def csv_to_json(filepath, outfilepath):
+    infile = open(filepath)
+    elections = []
+    for election in csv.DictReader(infile):
+        election['state'] = {'postal': election['state']}
+        direct_links = election['direct_links'].split(', \n')
+        election['direct_links'] = direct_links
+        elections.append(election)
+    data = {'objects': elections}
+    outfile = open(outfilepath, 'w')
+    json.dump(data, outfile, sort_keys=True, indent=4)
+
+
+def print_usage_message(cmd):
+    msg = """\nUsage: {} <filepath>\n
+        Convert JSON metadata to CSV, or vice versa.
+        If filepath ends in .json, write CSV metadata file.
+        If filepath ends in .csv, write JSON metadata file.
+    """.format(cmd)
+    print(msg)
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[0]
+    if len(sys.argv) != 2:
+        print_usage_message(cmd)
+        sys.exit()
+    
+    filepath = sys.argv[1]
+    path, ext = os.path.splitext(filepath)
+    ext = ext.lower()
+    if ext == '.json':
+        outfilepath = path + '.csv'
+        json_to_csv(filepath, outfilepath)
+    elif ext == '.csv':
+        outfilepath = path + '.json'
+        csv_to_json(filepath, outfilepath)
+    else:
+        print_usage_message(cmd)
+    
