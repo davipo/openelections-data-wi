@@ -13,6 +13,10 @@ http://docs.openelections.net/archive-standardization/
 Some data may be missing. This and other known problems are documented at
 https://github.com/openelections/openelections-data-wi/issues
 
+**Warning**: Some elections were recounted.
+Some of the data here are pre-recount results. This occurs in cases when the recounted results are available only in a different form. See [Issue 34](https://github.com/openelections/openelections-data-wi/issues/34#issuecomment-509877250) for details.
+
+
 We have included the following offices in our results:
 * President
 * Senate
