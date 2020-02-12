@@ -1,0 +1,18 @@
+{
+     "organization": {
+        "city": "", 
+        "gov_agency": true, 
+        "gov_level": "state", 
+        "id": 17, 
+        "name": "Wisconsin Elections Commission", 
+        "state": "WI", 
+        "street": "", 
+        "url": "http://elections.wi.gov/"
+     },
+     
+     "state": {
+        "name": "Wisconsin", 
+        "postal": "WI", 
+     },
+ 
+}
