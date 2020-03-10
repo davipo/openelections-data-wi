@@ -46,10 +46,22 @@ def csv_to_json(filepath, outfilepath):
         election['state'] = {'postal': election['state']}
         direct_links = election['direct_links'].split(', \n')
         election['direct_links'] = direct_links
+        convert_bools(election)
         elections.append(election)
     data = {'objects': elections}
     outfile = open(outfilepath, 'w')
     json.dump(data, outfile, sort_keys=True, indent=4)
+
+
+def convert_bools(election):
+    """Restore string values for booleans to boolean. Modifies parameter."""
+    for key, value in election.items():
+        if isinstance(value, basestring):
+            value = value.lower()
+            if value in ('true', '1'):
+                election[key] = True
+            elif value in ('false', '0'):
+                election[key] = False
 
 
 def print_usage_message(cmd):
@@ -78,4 +90,5 @@ if __name__ == "__main__":
         csv_to_json(filepath, outfilepath)
     else:
         print_usage_message(cmd)
+    
     
