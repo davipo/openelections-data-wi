@@ -47,6 +47,7 @@ def csv_to_json(filepath, outfilepath):
         direct_links = election['direct_links'].split(', \n')
         election['direct_links'] = direct_links
         convert_bools(election)
+        election['id'] = int(election['id'])
         elections.append(election)
     data = {'objects': elections}
     outfile = open(outfilepath, 'w')
