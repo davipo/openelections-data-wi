@@ -13,6 +13,16 @@
             "gov": false, 
             "house": false, 
             "id": 1892, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/node/6519", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -25,6 +35,7 @@
             "special": true, 
             "start_date": "2019-04-30", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -50,6 +61,16 @@
             "gov": false, 
             "house": false, 
             "id": 1891, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2019/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -62,6 +83,7 @@
             "special": false, 
             "start_date": "2019-04-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -85,6 +107,16 @@
             "gov": false, 
             "house": false, 
             "id": 1890, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2019/special-primary-ad64", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -97,6 +129,7 @@
             "special": true, 
             "start_date": "2019-04-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -120,6 +153,16 @@
             "gov": false, 
             "house": false, 
             "id": 1889, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2019/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -132,6 +175,7 @@
             "special": false, 
             "start_date": "2019-02-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -159,6 +203,16 @@
             "gov": true, 
             "house": true, 
             "id": 1886, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/node/6300", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -171,6 +225,7 @@
             "special": false, 
             "start_date": "2018-11-06", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -202,6 +257,16 @@
             "gov": true, 
             "house": true, 
             "id": 1878, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2018/partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -214,6 +279,7 @@
             "special": false, 
             "start_date": "2018-08-14", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -238,6 +304,16 @@
             "gov": false, 
             "house": false, 
             "id": 1874, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/special-election-sd1-ad42", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -250,6 +326,7 @@
             "special": true, 
             "start_date": "2018-06-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -274,6 +351,16 @@
             "gov": false, 
             "house": false, 
             "id": 1873, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/special-primary-sd1-ad42", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -286,6 +373,7 @@
             "special": true, 
             "start_date": "2018-05-15", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -311,6 +399,16 @@
             "gov": false, 
             "house": false, 
             "id": 1866, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -323,6 +421,7 @@
             "special": false, 
             "start_date": "2018-04-03", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -346,6 +445,16 @@
             "gov": false, 
             "house": false, 
             "id": 1864, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -358,6 +467,7 @@
             "special": false, 
             "start_date": "2018-02-20", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -383,6 +493,16 @@
             "gov": false, 
             "house": false, 
             "id": 1851, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/senate-district-10-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -395,6 +515,7 @@
             "special": true, 
             "start_date": "2018-01-16", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -420,6 +541,16 @@
             "gov": false, 
             "house": false, 
             "id": 1822, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2018/senate-district-10-special-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -432,6 +563,7 @@
             "special": true, 
             "start_date": "2017-12-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -458,6 +590,16 @@
             "gov": false, 
             "house": false, 
             "id": 1761, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2017/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -470,6 +612,7 @@
             "special": false, 
             "start_date": "2017-04-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -494,6 +637,16 @@
             "gov": false, 
             "house": false, 
             "id": 1755, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2017/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -506,6 +659,7 @@
             "special": false, 
             "start_date": "2017-02-21", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -533,6 +687,16 @@
             "gov": false, 
             "house": true, 
             "id": 1748, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2016/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -545,6 +709,7 @@
             "special": false, 
             "start_date": "2016-11-08", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -572,6 +737,16 @@
             "gov": false, 
             "house": true, 
             "id": 1711, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2016/partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -584,6 +759,7 @@
             "special": false, 
             "start_date": "2016-08-09", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -609,6 +785,16 @@
             "gov": false, 
             "house": false, 
             "id": 1865, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2016/spring-election-presidential-preference", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -621,6 +807,7 @@
             "special": false, 
             "start_date": "2016-04-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -644,6 +831,16 @@
             "gov": false, 
             "house": false, 
             "id": 1710, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2016/spring-election-presidential-preference", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -656,6 +853,7 @@
             "special": false, 
             "start_date": "2016-04-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -680,6 +878,16 @@
             "gov": false, 
             "house": false, 
             "id": 1823, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2016/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -692,6 +900,7 @@
             "special": false, 
             "start_date": "2016-02-16", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -715,6 +924,16 @@
             "gov": false, 
             "house": false, 
             "id": 1658, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2015/assembly-district-99-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -727,6 +946,7 @@
             "special": true, 
             "start_date": "2015-09-29", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -750,6 +970,16 @@
             "gov": false, 
             "house": false, 
             "id": 1659, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://www.elections.wi.gov/elections-voting/results/2015/assembly-district-99-special-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -762,6 +992,7 @@
             "special": true, 
             "start_date": "2015-09-01", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -785,6 +1016,16 @@
             "gov": false, 
             "house": false, 
             "id": 1660, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2015/senate-district-33-special-election", 
             "precinct_level": false, 
             "precinct_level_status": "yes", 
@@ -797,6 +1038,7 @@
             "special": true, 
             "start_date": "2015-07-21", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -820,6 +1062,16 @@
             "gov": false, 
             "house": false, 
             "id": 1661, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2015/senate-district-33-special-election-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -832,6 +1084,7 @@
             "special": true, 
             "start_date": "2015-06-23", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -855,6 +1108,16 @@
             "gov": false, 
             "house": false, 
             "id": 1576, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2015/special/senate-20", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -867,6 +1130,7 @@
             "special": true, 
             "start_date": "2015-04-07", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -890,6 +1154,16 @@
             "gov": false, 
             "house": false, 
             "id": 1824, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2015/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -902,6 +1176,7 @@
             "special": false, 
             "start_date": "2015-04-07", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -925,6 +1200,16 @@
             "gov": false, 
             "house": false, 
             "id": 1573, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2015/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -937,6 +1222,7 @@
             "special": true, 
             "start_date": "2015-02-17", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -960,6 +1246,16 @@
             "gov": true, 
             "house": true, 
             "id": 1574, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2014/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -972,6 +1268,7 @@
             "special": false, 
             "start_date": "2014-11-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -998,6 +1295,16 @@
             "gov": true, 
             "house": true, 
             "id": 1575, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2014/partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1010,6 +1317,7 @@
             "special": false, 
             "start_date": "2014-08-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1034,6 +1342,16 @@
             "gov": false, 
             "house": false, 
             "id": 1825, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2014/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1046,6 +1364,7 @@
             "special": false, 
             "start_date": "2014-04-01", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1069,6 +1388,16 @@
             "gov": false, 
             "house": false, 
             "id": 1826, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2014/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1081,6 +1410,7 @@
             "special": false, 
             "start_date": "2014-02-18", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1104,6 +1434,16 @@
             "gov": false, 
             "house": false, 
             "id": 1538, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2013/special/assembly-82", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1116,6 +1456,7 @@
             "special": true, 
             "start_date": "2013-12-17", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1140,6 +1481,16 @@
             "gov": false, 
             "house": false, 
             "id": 1827, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2013/special/assembly-21-69-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1152,6 +1503,7 @@
             "special": true, 
             "start_date": "2013-11-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1175,6 +1527,16 @@
             "gov": false, 
             "house": false, 
             "id": 1539, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2013/special/assembly-82-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1187,6 +1549,7 @@
             "special": true, 
             "start_date": "2013-11-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1211,6 +1574,16 @@
             "gov": false, 
             "house": false, 
             "id": 1828, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2013/special/assembly-21-69-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1223,6 +1596,7 @@
             "special": true, 
             "start_date": "2013-10-22", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1249,6 +1623,16 @@
             "gov": false, 
             "house": false, 
             "id": 404, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2013/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1261,6 +1645,7 @@
             "special": false, 
             "start_date": "2013-04-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1284,6 +1669,16 @@
             "gov": false, 
             "house": false, 
             "id": 405, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2013/special/assembly-98-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1296,6 +1691,7 @@
             "special": true, 
             "start_date": "2013-04-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1320,6 +1716,16 @@
             "gov": false, 
             "house": false, 
             "id": 1829, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2013/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1332,6 +1738,7 @@
             "special": false, 
             "start_date": "2013-02-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1355,6 +1762,16 @@
             "gov": false, 
             "house": false, 
             "id": 407, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2013/special/assembly-98-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1367,6 +1784,7 @@
             "special": true, 
             "start_date": "2013-02-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1390,6 +1808,16 @@
             "gov": false, 
             "house": false, 
             "id": 408, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2012/senate-district-33-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1402,6 +1830,7 @@
             "special": true, 
             "start_date": "2012-12-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1425,6 +1854,16 @@
             "gov": false, 
             "house": true, 
             "id": 409, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2012/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1437,6 +1876,7 @@
             "special": false, 
             "start_date": "2012-11-06", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1460,6 +1900,16 @@
             "gov": false, 
             "house": false, 
             "id": 410, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2012/senate-district-33-special-election-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1472,6 +1922,7 @@
             "special": true, 
             "start_date": "2012-11-06", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1499,6 +1950,16 @@
             "gov": false, 
             "house": true, 
             "id": 411, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2012/partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1511,6 +1972,7 @@
             "special": false, 
             "start_date": "2012-08-14", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1534,6 +1996,16 @@
             "gov": true, 
             "house": false, 
             "id": 1662, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2012/recall-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1546,6 +2018,7 @@
             "special": false, 
             "start_date": "2012-06-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1569,6 +2042,16 @@
             "gov": true, 
             "house": false, 
             "id": 1830, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2012/recall-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1581,6 +2064,7 @@
             "special": false, 
             "start_date": "2012-05-08", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1604,6 +2088,16 @@
             "gov": false, 
             "house": false, 
             "id": 413, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2012/spring-election-presidential-preference", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1616,6 +2110,7 @@
             "special": false, 
             "start_date": "2012-04-03", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1639,6 +2134,16 @@
             "gov": false, 
             "house": false, 
             "id": 1831, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2012/spring/primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1651,6 +2156,7 @@
             "special": false, 
             "start_date": "2012-02-21", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -1674,6 +2180,16 @@
             "gov": false, 
             "house": false, 
             "id": 415, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2011/special/ad-95-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1686,6 +2202,7 @@
             "special": true, 
             "start_date": "2011-11-08", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1709,6 +2226,16 @@
             "gov": false, 
             "house": false, 
             "id": 416, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2011/special/ad-95-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -1721,6 +2248,7 @@
             "special": true, 
             "start_date": "2011-10-11", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1745,6 +2273,16 @@
             "gov": false, 
             "house": false, 
             "id": 1832, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/August-16", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1757,6 +2295,7 @@
             "special": false, 
             "start_date": "2011-08-16", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1780,6 +2319,16 @@
             "gov": false, 
             "house": false, 
             "id": 1833, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/special-AD48-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1792,6 +2341,7 @@
             "special": true, 
             "start_date": "2011-08-09", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1820,6 +2370,16 @@
             "gov": false, 
             "house": false, 
             "id": 1834, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/august-9-recall", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1832,6 +2392,7 @@
             "special": false, 
             "start_date": "2011-08-09", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1855,6 +2416,16 @@
             "gov": false, 
             "house": false, 
             "id": 1835, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/recall-SD-30", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1867,6 +2438,7 @@
             "special": false, 
             "start_date": "2011-07-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1891,6 +2463,16 @@
             "gov": false, 
             "house": false, 
             "id": 1836, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/July-19-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1903,6 +2485,7 @@
             "special": false, 
             "start_date": "2011-07-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1926,6 +2509,16 @@
             "gov": false, 
             "house": false, 
             "id": 1837, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/special-AD48-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1938,6 +2531,7 @@
             "special": true, 
             "start_date": "2011-07-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -1966,6 +2560,16 @@
             "gov": false, 
             "house": false, 
             "id": 1838, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/July-12-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -1978,6 +2582,7 @@
             "special": false, 
             "start_date": "2011-07-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2001,6 +2606,16 @@
             "gov": false, 
             "house": false, 
             "id": 419, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2011/spring-special", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2013,6 +2628,7 @@
             "special": true, 
             "start_date": "2011-05-03", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2038,6 +2654,16 @@
             "gov": false, 
             "house": false, 
             "id": 421, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/spring", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2050,6 +2676,7 @@
             "special": false, 
             "start_date": "2011-04-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2073,6 +2700,16 @@
             "gov": false, 
             "house": false, 
             "id": 422, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2011/spring-special-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2085,6 +2722,7 @@
             "special": true, 
             "start_date": "2011-04-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2108,6 +2746,16 @@
             "gov": false, 
             "house": false, 
             "id": 1850, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2011/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -2120,6 +2768,7 @@
             "special": false, 
             "start_date": "2011-02-15", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2143,6 +2792,16 @@
             "gov": true, 
             "house": true, 
             "id": 424, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2010/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2155,6 +2814,7 @@
             "special": false, 
             "start_date": "2010-11-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2178,6 +2838,16 @@
             "gov": true, 
             "house": true, 
             "id": 425, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2010/fall-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2190,6 +2860,7 @@
             "special": false, 
             "start_date": "2010-09-14", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2214,6 +2885,16 @@
             "gov": false, 
             "house": false, 
             "id": 426, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2010/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2226,6 +2907,7 @@
             "special": false, 
             "start_date": "2010-04-06", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2250,6 +2932,16 @@
             "gov": false, 
             "house": false, 
             "id": 427, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2010/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2262,6 +2954,7 @@
             "special": false, 
             "start_date": "2010-02-16", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2288,6 +2981,16 @@
             "gov": false, 
             "house": false, 
             "id": 428, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2009/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2300,6 +3003,7 @@
             "special": false, 
             "start_date": "2009-04-07", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2324,6 +3028,16 @@
             "gov": false, 
             "house": false, 
             "id": 429, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2009/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2336,6 +3050,7 @@
             "special": false, 
             "start_date": "2009-02-17", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2363,6 +3078,16 @@
             "gov": false, 
             "house": true, 
             "id": 430, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2008/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2375,6 +3100,7 @@
             "special": false, 
             "start_date": "2008-11-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2407,6 +3133,16 @@
             "gov": false, 
             "house": true, 
             "id": 431, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2008/partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2419,6 +3155,7 @@
             "special": false, 
             "start_date": "2008-09-09", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2444,6 +3181,16 @@
             "gov": false, 
             "house": false, 
             "id": 432, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2008/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2456,6 +3203,7 @@
             "special": false, 
             "start_date": "2008-04-01", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2480,6 +3228,16 @@
             "gov": false, 
             "house": false, 
             "id": 433, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2008/spring-primary-presidential-preference", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2492,6 +3250,7 @@
             "special": false, 
             "start_date": "2008-02-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2517,6 +3276,16 @@
             "gov": false, 
             "house": false, 
             "id": 434, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2007/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2529,6 +3298,7 @@
             "special": false, 
             "start_date": "2007-04-03", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2553,6 +3323,16 @@
             "gov": false, 
             "house": false, 
             "id": 435, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2007/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2565,6 +3345,7 @@
             "special": false, 
             "start_date": "2007-02-20", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2596,6 +3377,16 @@
             "gov": true, 
             "house": true, 
             "id": 436, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2006/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2608,6 +3399,7 @@
             "special": false, 
             "start_date": "2006-11-07", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2636,6 +3428,16 @@
             "gov": true, 
             "house": true, 
             "id": 437, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2006/fall-partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2648,6 +3450,7 @@
             "special": false, 
             "start_date": "2006-09-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2673,6 +3476,16 @@
             "gov": false, 
             "house": false, 
             "id": 438, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2006/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2685,6 +3498,7 @@
             "special": false, 
             "start_date": "2006-04-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2708,6 +3522,16 @@
             "gov": false, 
             "house": false, 
             "id": 439, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2006/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2720,6 +3544,7 @@
             "special": false, 
             "start_date": "2006-02-21", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2743,6 +3568,16 @@
             "gov": false, 
             "house": false, 
             "id": 440, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2006/assembly-district-33-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2755,6 +3590,7 @@
             "special": true, 
             "start_date": "2006-01-10", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2778,6 +3614,16 @@
             "gov": false, 
             "house": false, 
             "id": 441, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2006/assembly-district-33-special-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2790,6 +3636,7 @@
             "special": true, 
             "start_date": "2005-12-13", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2816,6 +3663,16 @@
             "gov": false, 
             "house": false, 
             "id": 442, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2005/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2828,6 +3685,7 @@
             "special": false, 
             "start_date": "2005-04-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2852,6 +3710,16 @@
             "gov": false, 
             "house": false, 
             "id": 443, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2005/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2864,6 +3732,7 @@
             "special": false, 
             "start_date": "2005-02-15", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -2892,6 +3761,16 @@
             "gov": false, 
             "house": true, 
             "id": 444, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2004/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2904,6 +3783,7 @@
             "special": false, 
             "start_date": "2004-11-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2933,6 +3813,16 @@
             "gov": false, 
             "house": true, 
             "id": 445, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2004/fall-partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2945,6 +3835,7 @@
             "special": false, 
             "start_date": "2004-09-14", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -2968,6 +3859,16 @@
             "gov": false, 
             "house": false, 
             "id": 446, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2004/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -2980,6 +3881,7 @@
             "special": false, 
             "start_date": "2004-04-06", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3003,6 +3905,16 @@
             "gov": false, 
             "house": false, 
             "id": 447, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "https://elections.wi.gov/elections-voting/results/2004/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -3015,6 +3927,7 @@
             "special": false, 
             "start_date": "2004-02-17", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3038,6 +3951,16 @@
             "gov": false, 
             "house": false, 
             "id": 448, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.state.wi.us/subcategory.asp?linksubcatid=393&linkcatid=491&linkid=155&locid=47", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -3050,6 +3973,7 @@
             "special": true, 
             "start_date": "2004-01-27", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3073,6 +3997,16 @@
             "gov": false, 
             "house": false, 
             "id": 664, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.state.wi.us/subcategory.asp?linksubcatid=394&linkcatid=490&linkid=155&locid=47", 
             "precinct_level": false, 
             "precinct_level_status": "", 
@@ -3085,6 +4019,7 @@
             "special": false, 
             "start_date": "2003-11-18", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3108,6 +4043,16 @@
             "gov": false, 
             "house": false, 
             "id": 674, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.state.wi.us/subcategory.asp?linksubcatid=394&linkcatid=490&linkid=155&locid=47", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -3120,6 +4065,7 @@
             "special": false, 
             "start_date": "2003-10-21", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3143,6 +4089,16 @@
             "gov": false, 
             "house": false, 
             "id": 685, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2003/assembly-districts-21-and-71-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -3155,6 +4111,7 @@
             "special": true, 
             "start_date": "2003-07-22", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3178,6 +4135,16 @@
             "gov": false, 
             "house": false, 
             "id": 689, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.state.wi.us/subcategory.asp?linksubcatid=395&linkcatid=490&linkid=155&locid=47", 
             "precinct_level": true, 
             "precinct_level_status": "", 
@@ -3190,6 +4157,7 @@
             "special": true, 
             "start_date": "2003-06-24", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3214,6 +4182,16 @@
             "gov": false, 
             "house": false, 
             "id": 1756, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2003/senate-districts-7and-24-and-assembly-district-18-special-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3226,6 +4204,7 @@
             "special": true, 
             "start_date": "2003-04-29", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3251,6 +4230,16 @@
             "gov": false, 
             "house": false, 
             "id": 1839, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2003/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3263,6 +4252,7 @@
             "special": false, 
             "start_date": "2003-04-01", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3286,6 +4276,16 @@
             "gov": false, 
             "house": false, 
             "id": 1840, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2003/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3298,6 +4298,7 @@
             "special": false, 
             "start_date": "2003-02-18", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3328,6 +4329,16 @@
             "gov": true, 
             "house": true, 
             "id": 1577, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2002/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3340,6 +4351,7 @@
             "special": false, 
             "start_date": "2002-11-05", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3370,6 +4382,16 @@
             "gov": true, 
             "house": true, 
             "id": 1578, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2002/fall-partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3382,6 +4404,7 @@
             "special": false, 
             "start_date": "2002-09-10", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3406,6 +4429,16 @@
             "gov": false, 
             "house": false, 
             "id": 1841, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2002/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3418,6 +4451,7 @@
             "special": false, 
             "start_date": "2002-04-02", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3441,6 +4475,16 @@
             "gov": false, 
             "house": false, 
             "id": 1842, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2002/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3453,6 +4497,7 @@
             "special": false, 
             "start_date": "2002-02-19", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3479,6 +4524,16 @@
             "gov": false, 
             "house": false, 
             "id": 1843, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2001/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3491,6 +4546,7 @@
             "special": false, 
             "start_date": "2001-04-03", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3515,6 +4571,16 @@
             "gov": false, 
             "house": false, 
             "id": 1844, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2001/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3527,6 +4593,7 @@
             "special": false, 
             "start_date": "2001-02-20", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3555,6 +4622,16 @@
             "gov": false, 
             "house": true, 
             "id": 1845, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2000/fall-general", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3567,6 +4644,7 @@
             "special": false, 
             "start_date": "2000-11-07", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3596,6 +4674,16 @@
             "gov": false, 
             "house": true, 
             "id": 1846, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2000/fall-partisan-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3608,6 +4696,7 @@
             "special": false, 
             "start_date": "2000-09-12", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": true, 
@@ -3633,6 +4722,16 @@
             "gov": false, 
             "house": false, 
             "id": 1847, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2000/spring-election", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3645,6 +4744,7 @@
             "special": false, 
             "start_date": "2000-04-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3669,6 +4769,16 @@
             "gov": false, 
             "house": false, 
             "id": 1848, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2000/spring-presidential-preference", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3681,6 +4791,7 @@
             "special": false, 
             "start_date": "2000-04-04", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 
@@ -3704,6 +4815,16 @@
             "gov": false, 
             "house": false, 
             "id": 1849, 
+            "organization": {
+                "city": "", 
+                "gov_agency": true, 
+                "gov_level": "state", 
+                "id": 17, 
+                "name": "Wisconsin Elections Commission", 
+                "state": "WI", 
+                "street": "", 
+                "url": "http://elections.wi.gov/"
+            }, 
             "portal_link": "http://elections.wi.gov/elections-voting/results/2000/spring-primary", 
             "precinct_level": true, 
             "precinct_level_status": "yes", 
@@ -3716,6 +4837,7 @@
             "special": false, 
             "start_date": "2000-02-15", 
             "state": {
+                "name": "Wisconsin", 
                 "postal": "WI"
             }, 
             "state_leg": false, 

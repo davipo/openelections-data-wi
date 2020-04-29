@@ -6,6 +6,8 @@ import os
 import sys
 
 
+ORG_AND_STATE_FILEPATH = 'local_data_cache/org_and_state.json'
+
 fieldnames = [
     'id', 'state', 'start_date', 'end_date', 
     'race_type', 'special', 'primary_type', 'primary_note',
@@ -40,10 +42,13 @@ def json_to_csv(filepath, outfilepath):
 
 
 def csv_to_json(filepath, outfilepath):
+    orgfile = open(ORG_AND_STATE_FILEPATH)
+    org_and_state = json.load(orgfile)
     infile = open(filepath)
     elections = []
     for election in csv.DictReader(infile):
-        election['state'] = {'postal': election['state']}
+        election['organization'] = org_and_state['organization']
+        election['state'] = org_and_state['state']
         direct_links = election['direct_links'].split(', \n')
         election['direct_links'] = direct_links
         convert_bools(election)
