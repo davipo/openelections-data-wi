@@ -186,14 +186,20 @@ def get_offices(sheet):
     value_2A = sheet.cell_value(rowx=2, colx=0) if sheet.nrows > 2 else ''
     
     if ''.join(row1_AB) == '':
+        sheet_index = 0     # start parsing data with sheet 0
         # First two cols in row 1 are blank,
         #   is this 2011-04-05 Supreme Court election (id 421)?
         office = 'JUSTICE OF THE SUPREME COURT'
         if value_2A == office:
             offices = [office]
-            sheet_index = 0     # start parsing data with sheet 0
         else:
-            raise Exception('Unrecognized spreadsheet format')
+            office = 'PRESIDENT OF THE UNITED STATES'
+            if (sheet.nrows > 8
+                    and sheet.cell_value(4, 0) == '2016 General Election' 
+                    and sheet.cell_value(7, 0) == office):
+                offices = [office]
+            else:
+                raise Exception('Unrecognized spreadsheet format')
     else:
         if value_2A == 'Canvass Detail':   # probably 2010-09-14, id 425
             row = 3     # offices start in row 3 (0-origin)
